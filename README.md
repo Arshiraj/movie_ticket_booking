@@ -7,7 +7,8 @@ This project is a **Movie Ticket Booking System** designed with a relational dat
 
 ## 📌 ER Diagram
 
-![WhatsApp Image 2025-04-12 at 22 29 39](https://github.com/user-attachments/assets/0b7dd1ea-3d1e-429e-b66f-ab47e7a53cbc)
+![ER_diagram](https://github.com/user-attachments/assets/43404e99-aadc-44f6-8ea0-d31babb06567)
+
 
 ---
 
