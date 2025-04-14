@@ -7,7 +7,7 @@ This project is a **Movie Ticket Booking System** designed with a relational dat
 
 ## 📌 ER Diagram
 
-![ER Diagram](ChatGPT%20Image%20Apr%2012,%202025,%2010_35_53%20PM.png)
+![WhatsApp Image 2025-04-12 at 22 29 39](https://github.com/user-attachments/assets/0b7dd1ea-3d1e-429e-b66f-ab47e7a53cbc)
 
 ---
 
@@ -107,6 +107,3 @@ Tracks bookings made by users.
 
 ---
 
-## 📃 License
-
-This project is licensed under the MIT License.
